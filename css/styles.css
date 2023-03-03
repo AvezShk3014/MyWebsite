@@ -1,5 +1,6 @@
 body{
-    color: #11a859;
+    background-color: #ECF2FF;
+    color: #590696;
     margin: 0;
     text-align: center;
     font-family: 'Suranna', sans-serif;
@@ -54,13 +55,13 @@ p{
 }
 
 .bottom-container{
-    background-color: #FFC06E;
+    background-color: #DEFCF9;
     padding: 50px 0 20px;
 }
 
 .skill-row{
     margin: 70px auto 70px auto;
-    width: 50%;
+    width: 70%;
     text-align: left;
     
 }
@@ -71,7 +72,7 @@ p{
 }
 
 .profile{
-    width: 40%;
+    width: 70%;
     margin: auto;
 }
 
@@ -88,13 +89,13 @@ p{
 }
 
 a{
-    color: #049a0b90;
+    color: #267701;
     font-family:  'Suranna', sans-serif;
     text-decoration: none;
 }
 
 a:hover{
-    color: #EAF6F6;
+    color: #18ff52;
 }
 
 .top-cloud{
