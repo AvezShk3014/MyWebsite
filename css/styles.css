@@ -1,5 +1,5 @@
 body{
-    color: #40514E;
+    color: #11a859;
     margin: 0;
     text-align: center;
     font-family: 'Suranna', sans-serif;
@@ -7,7 +7,7 @@ body{
 }
 
 h1{
-    color: #66BFBF;
+    color: #FFD700;
     font-size: 5.62rem;
     line-height: 2;
     margin-top: 50px;
@@ -16,7 +16,7 @@ h1{
 }
 
 h2{
-    color: #66BFBF;
+    color: #35f51c;
     font-family: "Nunito", sans-serif;
     font-weight: normal;
     font-size: 2.5rem;
@@ -25,7 +25,7 @@ h2{
 }
 
 h3{
-    color: #11999E;
+    color: #358b31;
     font-family: "Nunito", sans-serif;
     
 }
@@ -49,17 +49,17 @@ p{
 }
 
 .middle-container{
-    margin: 100px 0 ;
+    margin: 100px  ;
   
 }
 
 .bottom-container{
-    background-color: #66BFBF;
+    background-color: #FFC06E;
     padding: 50px 0 20px;
 }
 
 .skill-row{
-    margin: 100px auto 100px auto;
+    margin: 70px auto 70px auto;
     width: 50%;
     text-align: left;
     
@@ -71,7 +71,7 @@ p{
 }
 
 .profile{
-    width: 30%;
+    width: 40%;
     margin: auto;
 }
 
@@ -81,14 +81,14 @@ p{
 }
 
 .copyright{
-    color: #EAF6F6;
+    color: black;
     font-size:0.85rem;
     padding: 20px 0;
 
 }
 
 a{
-    color: #11999E;
+    color: #049a0b90;
     font-family:  'Suranna', sans-serif;
     text-decoration: none;
 }
@@ -113,8 +113,8 @@ a:hover{
 
 .pfp{
     margin-top: 20px;
-    height: 250px;
-    width:250px;
+    height: 300px;
+    width:300px;
 }
 
 .code-img{
@@ -131,7 +131,7 @@ a:hover{
 }
 
 .btn {
-    background: #11cdd4;
+    background: #09af75c1;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
     background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
     background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
@@ -148,7 +148,7 @@ a:hover{
   }
   
   .btn:hover {
-    background: #30e3cb;
+    background: #128676;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
